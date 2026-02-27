@@ -1,0 +1,25 @@
+{
+  "name": "cours-notes-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iule-afk/cours-notes-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iule-afk/cours-notes-api/issues"
+  },
+  "homepage": "https://github.com/iule-afk/cours-notes-api#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "marked": "^17.0.3"
+  }
+}
